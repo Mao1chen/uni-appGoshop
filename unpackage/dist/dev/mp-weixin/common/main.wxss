@@ -1,0 +1,20 @@
+/*每个页面公共css */
+@font-face {
+  font-family: "iconfont";
+  /* Project id 2837728 */
+  src: url('//at.alicdn.com/t/font_2837728_xgcph95my3.woff2?t=1632712923956') format('woff2'), url('//at.alicdn.com/t/font_2837728_xgcph95my3.woff?t=1632712923956') format('woff'), url('//at.alicdn.com/t/font_2837728_xgcph95my3.ttf?t=1632712923956') format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-sousuo:before {
+  content: "\e651";
+}
+page {
+  height: 100%;
+}
+
